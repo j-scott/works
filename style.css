@@ -38,6 +38,14 @@ a:hover.navselected{
   color: red;
 }
 
+#footer {
+	clear: both;
+	padding: 60px 0px 10px 0px;
+	text-align: center;
+	font-size: 12px; 
+	bottom: 0px;
+}
+
 #content {
 	text-align: center;
 	width: 1140px ;
